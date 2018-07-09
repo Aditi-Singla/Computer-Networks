@@ -1,0 +1,50 @@
+
+
+Cumulative RTT : 50082us
+Cumulative RTT : 388068us
+Cumulative RTT : 1281us
+Cumulative RTT : 46810us
+Cumulative RTT : 401074us
+
+Cumulative RTT : 485992us
+
+Cumulative RTT : 470111us
+Cumulative RTT : 453630us
+
+Cumulative RTT : 464381us
+
+
+Cumulative RTT : 457983us
+Cumulative RTT : 496629us
+Cumulative RTT : 468042us
+Cumulative RTT : 459359us
+Cumulative RTT : 464337us
+Cumulative RTT : 447108us
+Cumulative RTT : 461359us
+Cumulative RTT : 503273us
+
+
+Cumulative RTT : 516873us
+Cumulative RTT : 461826us
+Cumulative RTT : 465330us
+Cumulative RTT : 465859us
+
+
+
+Cumulative RTT : 458899us
+Cumulative RTT : 466586us
+
+Cumulative RTT : 446370us
+Cumulative RTT : 464451us
+Cumulative RTT : 463990us
+
+
+
+Cumulative RTT : 459895us
+Cumulative RTT : 467792us
+
+
+
+Cumulative RTT : 467918us
+Cumulative RTT : 448736us
+Cumulative RTT : 464591us
