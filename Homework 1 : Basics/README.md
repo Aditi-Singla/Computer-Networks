@@ -1,6 +1,6 @@
 # Homework 1 : Basic Socket Programming
 
-* Netem:
+Netem:
 
 `sudo tc qdisc add dev <name of ethernet adapter> root netem delay <mean> ms <std-dev> ms distribution normal loss <percent value>%`
 
@@ -14,5 +14,5 @@
 	`make
 	java echo`
 
-The readings have been taken on two Ubuntu systems connected to Ethernet.
-The files are saved as "Output_with_netem_<T>_<P>.txt" or "Output_without_netem_<T>_<P>.txt"		
+* The readings have been taken on two Ubuntu systems connected to Ethernet.
+* The files are saved as "Output_with_netem\_&lt;T&gt;\_&lt;P&gt;.txt" or "Output_wo_netem\_&lt;T&gt;\_&lt;P&gt;.txt"		
